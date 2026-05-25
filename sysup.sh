@@ -30,3 +30,4 @@ fi
 clear
 echo "━━━━━━━━━━━ COMPLETE ━━━━━━━━━━━"
 echo "System successfully updated"
+echo "Bye!"
